@@ -5,12 +5,25 @@ I'm Kamil, friendly Frontend Developer.
 #### Technologies that catch my attention
 
 <details open>
-<summary>Programming languages prefferred to work with</summary>
+<summary>Programming languages that I work with</summary>
 
 | Daily     | Often | Sometimes| Occassionally|
 |----------:|------:|---------:|-------------:|
 |JavaScript |Java   |Python    |C++           |
 |TypeScript |       |Rust      |              |
+
+</details>
+
+<details open>
+<summary>Libraries that I find helpful and powerful to use/summary>
+
+|React|
+|-|
+|tanstack-query|
+|axios|
+|react-hook-form|
+|i18next|
+|zustand|
 
 
 </details>
