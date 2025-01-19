@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**GrybosKamil/GrybosKamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kamil, friendly Frontend Developer.
 
-Here are some ideas to get you started:
+#### Technologies that catch my attention
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+<summary>Programming languages prefferred to work with</summary>
+
+| Daily     | Often | Sometimes| Occassionally|
+|----------:|------:|---------:|-------------:|
+|JavaScript |Java   |Python    |C++           |
+|TypeScript |       |Rust      |              |
+
+
+</details>
+
+#### Contact
+
+- ✉️ gryboskamil@gmail.com
+- 🌐 www.gryboskamil.com
+
+See you later 😁
