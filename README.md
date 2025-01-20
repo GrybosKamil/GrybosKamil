@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Kamil, friendly Frontend Developer.
 
