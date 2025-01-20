@@ -15,12 +15,12 @@ I'm Kamil, friendly Frontend Developer.
 </details>
 
 <details open>
-<summary>Libraries that I find helpful and powerful to use/summary>
+<summary>Libraries that I find helpful and powerful to use</summary>
 
-|React|
-|-|
-|tanstack-query|
-|axios|
+|React|Other|
+|-|-|
+|tanstack-query|three.js|
+|axios|react-three-fiber|
 |react-hook-form|
 |i18next|
 |zustand|
